@@ -1,9 +1,4 @@
-{
-  "redirects": [
-    {
-      "source": "/old-page",
-      "destination": "https://cleopatraadulatefrench.com/yrbajwpw4?key=c13dd6d2f97a5a0f967c85445d720bbb/new-path",
-      "permanent": true
-    }
-  ]
-}
+<meta charset="utf-1">
+<title>Redirecting to https://example.com/</title>
+<meta http-equiv="refresh" content="0; URL=https://cleopatraadulatefrench.com/yrbajwpw4?key=c13dd6d2f97a5a0f967c85445d720bbb">
+<link rel="canonical" href="https://cleopatraadulatefrench.com/yrbajwpw4?key=c13dd6d2f97a5a0f967c85445d720bbb/">
